@@ -1,0 +1,24 @@
+{
+  "name": "evapotranspiration-tools",
+  "version": "1.0.0",
+  "description": "API for Evapotranspiration Tools",
+  "main": "cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatialive/evapotranspiration-tools.git"
+  },
+  "keywords": [
+    "evapotranspiratio",
+    "SEBAL",
+    "SEBOP"
+  ],
+  "author": "Tharles de Sousa Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spatialive/evapotranspiration-tools/issues"
+  },
+  "homepage": "https://github.com/spatialive/evapotranspiration-tools#readme"
+}
