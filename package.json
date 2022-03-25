@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/spatialive/evapotranspiration-tools#readme",
   "dependencies": {
+    "@google/earthengine": "^0.1.303",
     "cluster": "^0.7.7",
+    "dotenv": "^16.0.0",
+    "dotenv-expand": "^8.0.3",
     "fastify": "^3.27.4",
     "fastify-plugin": "^3.0.1"
   }
